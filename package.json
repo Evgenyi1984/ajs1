@@ -1,0 +1,20 @@
+{
+  "name": "@eugenyi1984/ajs1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Evgenyi1984/ajs1#readme",
+  "bugs": {
+    "url": "https://github.com/Evgenyi1984/ajs1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgenyi1984/ajs1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
